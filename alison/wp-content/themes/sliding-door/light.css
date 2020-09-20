@@ -4,7 +4,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 
 body {
-	background: url(/wp-content/themes/sliding-door/images/lightback.jpg) repeat;
+	background: url(/alison/wp-content/themes/sliding-door/images/lightback.jpg) repeat;
 }
 
 
@@ -57,7 +57,7 @@ ins {
 
 blockquote {
 	color: #ddd;
-	background: #fff url(/wp-content/themes/sliding-door/images/blockquote.png) no-repeat 10px 1px;
+	background: #fff url(/alison/wp-content/themes/sliding-door/images/blockquote.png) no-repeat 10px 1px;
 }
 
 pre {

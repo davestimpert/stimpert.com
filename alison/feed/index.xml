@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alison K. Stimpert</title>
-	<atom:link href="/feed" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="/alison/feed" rel="self" type="application/rss+xml" />
+	<link>/alison</link>
 	<description>Bioacoustics and Behavioral Ecology</description>
 	<lastBuildDate>Thu, 26 Sep 2019 05:25:14 +0000</lastBuildDate>
 	<language>en-US</language>
